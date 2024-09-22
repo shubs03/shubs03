@@ -1,4 +1,4 @@
-<div align="center">![MasterHead](https://github.com/shubs03/shubs03/blob/main/Dev_cleanup.jpg)</div>
+<img align="center"  width="400" src="https://github.com/shubs03/shubs03/blob/main/Dev_cleanup.jpg">
 <h1 align="center">Hi 👋, I'm Shubham Vanarse</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.yourstory.com/cs/1/be1a9aa0-f94e-11e8-9dfb-d73ab0a77acb/hire-full-stack-developers1546507474317.gif?fm=png&auto=format">
